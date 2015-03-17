@@ -1,0 +1,40 @@
+
+CS575 : Programming Project 2
+
+Instructor : KD Kang
+
+Student Name : Sandeep Vempati
+BNumber : B00548353
+BID: svempat2
+
+
+Assuming you are in the current Directory :
+
+
+To Compile the Files :
+make
+
+Four executable files will be created in the same directory :
+
+To execute Strassen's Matrix multiplication :
+
+./stra inputSize
+
+
+To execute Tromino tiling algorithm :
+
+./tro inputBoardLength
+
+To execute LCS :
+
+./lcs inputString1 inputString2
+
+To execute Floyd's algorithm :
+
+I have created a file called graph which consists of information about the weigthed nodes , which
+should be given as input to executable 
+
+./floyd graph
+
+
+
